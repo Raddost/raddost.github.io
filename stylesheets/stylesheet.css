@@ -104,7 +104,15 @@ p {
 #contactDetails ul li a:hover {
 	color: #cf8a05;
 }
+#cvTheme {
+	float: right;
+}
 
+#cvTheme ul {
+	list-style-type: none;
+	font-size: 0.9em;
+	margin-top: 2px;
+}
 
 section {
 	border-top: 1px solid #dedede;
@@ -141,7 +149,12 @@ section:last-child {
 	font-size: 1.5em;
 	margin-bottom: -2px;
 }
-
+.sectionContent h3 {
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-size: 0.8em;
+	border-left: : 840px solid #cf8a05;
+	margin-bottom: -2px;
+}
 
 .subDetails {
 	font-size: 0.8em;
