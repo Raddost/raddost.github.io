@@ -54,6 +54,7 @@ p {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 }
 
+
 #mainArea {
 	padding: 0 40px;
 }
@@ -138,6 +139,12 @@ section:last-child {
 .sectionContent h2 {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	font-size: 1.5em;
+	margin-bottom: -2px;
+}
+.sectionContent h3 {
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-size: 0.5em;
+	border-right: : 2px solid #cf8a05;
 	margin-bottom: -2px;
 }
 
